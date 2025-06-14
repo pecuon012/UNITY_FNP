@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 1949773527
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Boundaries
+    uniqueID: 2963063599
+    locked: 0
+  - name: Details
+    uniqueID: 2109407305
+    locked: 0
+  - name: Boundaries_Deco
+    uniqueID: 1066959551
+    locked: 0
+  - name: Player
+    uniqueID: 1063734529
+    locked: 0
+  - name: pillar
+    uniqueID: 2733280311
+    locked: 0
+  - name: Gates
+    uniqueID: 517475055
+    locked: 0
